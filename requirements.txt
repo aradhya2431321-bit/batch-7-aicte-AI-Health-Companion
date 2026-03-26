@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+Pillow
+google-generativeai
+python-dotenv
+google-auth-oauthlib
