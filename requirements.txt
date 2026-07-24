@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+matplotlib
+Pillow
+python-dotenv
+google-generativeai
+google-auth-oauthlib
+pyttsx3
+SpeechRecognition
+gTTS
+reportlab
+streamlit-webrtc
+av
+opencv-python-headless
